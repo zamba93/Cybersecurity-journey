@@ -1,0 +1,10 @@
+a) Introduccion
+Presentación de los objetivos, el escenario de prueba y la metodología aplicada para el análisis de seguridad.
+b)Ejemplo de pregunta de investigación
+Planteamiento de hipótesis y casos de estudio orientados a evaluar vectores de ataque específicos.
+c)Búsqueda de vulnerabilidades
+Ejecución de escaneos y reconocimiento para detectar puntos débiles, servicios desactualizados o configuraciones incorrectas en el sistema objetivo.
+d)Páginas del Manual
+Consulta de documentación técnica oficial y comandos de referencia (man pages) para comprender el funcionamiento de las herramientas de auditoría utilizadas.
+e)Reflexiones finales
+Conclusiones sobre el impacto de las fallas encontradas y recomendaciones de mitigación para asegurar el entorno.
